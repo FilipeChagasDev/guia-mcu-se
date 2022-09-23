@@ -1,0 +1,3 @@
+# Entradas e saídas de propósito geral
+
+Em construção...
