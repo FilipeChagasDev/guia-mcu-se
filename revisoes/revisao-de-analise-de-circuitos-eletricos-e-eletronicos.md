@@ -277,7 +277,7 @@ Eletrônica é a área da elétrica que trata de componentes como diodos, transi
 
 Diodos são componentes de dois terminais feitos de junções de semicondutores. O uso mais básico desses componentes é o de "chave controlada" - basicamente, utiliza-se um diodo como uma chave que só permite a passagem de corrente em um sentido.
 
-Diodos possuem dois polos: um anodo e um catodo. Idealmente, o diodo só permite a passagem de corrente do anodo para o catodo, que ocorre quando ele está diretamente polarizado. Na polarização inversa, que ocorre quando as tensões do circuito condicionam a corrente à circular do catodo ao anodo, a passagem de corrente é bloqueada e o diodo se comporta como uma chave aberta.
+Diodos possuem dois polos: um anodo e um catodo. Idealmente, o diodo só permite a passagem de corrente do anodo para o catodo, que ocorre quando ele está diretamente polarizado. Na polarização inversa, que ocorre quando as tensões do circuito condicionam a corrente a circular do catodo ao anodo, a passagem de corrente é bloqueada e o diodo se comporta como uma chave aberta.
 
 <figure><img src="../.gitbook/assets/malvino_diodo_0.png" alt=""><figcaption><p>Figura retirada de (MALVINO, 2000)</p></figcaption></figure>
 
