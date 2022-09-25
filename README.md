@@ -1,5 +1,5 @@
 ---
-description: 'Autor: Filipe Chagas Ferraz'
+description: Filipe Chagas Ferraz
 cover: .gitbook/assets/Home_Electronics_Lab.jpg
 coverY: -303.32984293193715
 ---
