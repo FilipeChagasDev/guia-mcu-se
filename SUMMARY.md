@@ -26,7 +26,7 @@
 
 ## Sugestões de projetos
 
-* [Projeto - Aquecedor de água com controle de temperatura](sugestoes-de-projetos/projeto-aquecedor-de-agua-com-controle-de-temperatura.md)
+* [Projeto - Controlador de temperatura on-off](sugestoes-de-projetos/projeto-controlador-de-temperatura-on-off.md)
 * [Projeto - Mini braço robótico](sugestoes-de-projetos/projeto-mini-braco-robotico.md)
 * [Projeto - Mini carro autônomo](sugestoes-de-projetos/projeto-mini-carro-autonomo.md)
 * [Projeto - Sistema de irrigação automático](sugestoes-de-projetos/projeto-sistema-de-irrigacao-automatico.md)
